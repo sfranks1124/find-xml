@@ -1,0 +1,575 @@
+<FormsXML>
+  <printJob name="_TransactionPrint">
+    <ExportDocument docType="PDF" rootPath="E:\Program Files\Duck Creek Technologies Policy\Forms\" PDFFile="C:\Windows\TEMP\New2014-06-09T081413.991-_CommercialAuto_ACV102000149_BLACKSHEAR AUTO PARTS INC_2014-2015_New" OnePDF="1" duplexPrint="False" policyForms="1">
+      <ExportSection name="DCTSCHEDULEFORCADS03" value="Carrier_CommercialAuto_Forms_Multistate_8_8_0_0" caption="DCT SCHEDULE FOR CADS03" paperBinNum="0" category="" printDefault="Mandatory" topicRef="" pageRef="" printed="1">
+        <group name="Policy" startIteration="1" endIteration="1" itemID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <group name="Line" startIteration="1" endIteration="1" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <group name="Risk" startIteration="1" endIteration="2" itemID="r06F7875C233343B3A563411B2461B0C6" />
+        <group name="CovCollision" startIteration="1" endIteration="2" itemID="c5E1F73DFA17842E092E56CDC5F70D1FB" />
+        <group name="CovLiability" startIteration="1" endIteration="2" itemID="cDFFDF418F59641C886B0D885E2C11071" />
+        <group name="CovTowing" startIteration="1" endIteration="2" itemID="cE4A2EF9158BE4DD2A300E2BE93D9B81F" />
+        <group name="RiskVehicle" startIteration="1" endIteration="2" itemID="rC50C0CADE64347DBA064B434C4125CBB" />
+        <group name="CovMedical" startIteration="1" endIteration="2" itemID="c3342D07E1D404B7CBB28AD91CFE43106" />
+        <group name="CovOTC" startIteration="1" endIteration="2" itemID="cC2AF467E4FFC4825B3943BEA133EABF5" />
+        <group name="RiskCommercialAuto" startIteration="1" endIteration="2" itemID="r87EC6FDE1BB341958ED13FA1BCF93991" />
+        <group name="CovPropertyProtection" startIteration="1" endIteration="2" itemID="c06845150B5374CA381C4197AC45475A0" />
+        <subForm name="DCT SCHEDULE FOR CADS03.PDF" path="Auto|Forms|Multistate|" />
+        <dataElement name="Policy Number" value="ACV102000149" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="APIP Total Prem" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Coll-TotalPrem" value="89" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Comp-TotalPrem" value="68" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Med Pay Total Prem" value="44" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="MedExp-TotalPrem" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="PPI - Prop Protection MI Total Prem" value="" itemID="" parentID="" />
+        <dataElement name="Spec CauseLoss Total Prem" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Total Liab Prem" value="745" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Total PIP Prem" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="TowLabor Total Prem" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="AdditionalInterest-Owner-Leasor1" value="" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="AdditionalInterest-Owner-Leasor2" value="" itemID="rADB21416D4CC4B169B5790E8E62B94C0" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="AdditionalInterest-Owner-Leasor3" value="" itemID="" parentID="" />
+        <dataElement name="AdditionalInterest-Owner-Leasor4" value="" itemID="" parentID="" />
+        <dataElement name="AdditionalInterest-Owner-Leasor5" value="" itemID="" parentID="" />
+        <dataElement name="AdditionalInterest Veh Number1" value="" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="AdditionalInterest Veh Number2" value="" itemID="rADB21416D4CC4B169B5790E8E62B94C0" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="AdditionalInterest Veh Number3" value="" itemID="" parentID="" />
+        <dataElement name="AdditionalInterest Veh Number4" value="" itemID="" parentID="" />
+        <dataElement name="AdditionalInterest Veh Number5" value="" itemID="" parentID="" />
+        <dataElement name="Spec CauseLoss Ded1" value="" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Spec CauseLoss Ded2" value="" itemID="rADB21416D4CC4B169B5790E8E62B94C0" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Spec CauseLoss Ded3" value="" itemID="" parentID="" />
+        <dataElement name="Spec CauseLoss Ded4" value="" itemID="" parentID="" />
+        <dataElement name="Spec CauseLoss Ded5" value="" itemID="" parentID="" />
+        <dataElement name="Veh Business Use S-R-C1" value="Commercial" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Veh Business Use S-R-C2" value="Service" itemID="rADB21416D4CC4B169B5790E8E62B94C0" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Veh Business Use S-R-C3" value="" itemID="" parentID="" />
+        <dataElement name="Veh Business Use S-R-C4" value="" itemID="" parentID="" />
+        <dataElement name="Veh Business Use S-R-C5" value="" itemID="" parentID="" />
+        <dataElement name="Veh Capacity1" value="10,000" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Veh Capacity2" value="10,000" itemID="rADB21416D4CC4B169B5790E8E62B94C0" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Veh Capacity3" value="" itemID="" parentID="" />
+        <dataElement name="Veh Capacity4" value="" itemID="" parentID="" />
+        <dataElement name="Veh Capacity5" value="" itemID="" parentID="" />
+        <dataElement name="Veh Factor Primary Liab1" value="1.30" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Veh Factor Primary Liab2" value="1.00" itemID="rADB21416D4CC4B169B5790E8E62B94C0" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Veh Factor Primary Liab3" value="" itemID="" parentID="" />
+        <dataElement name="Veh Factor Primary Liab4" value="" itemID="" parentID="" />
+        <dataElement name="Veh Factor Primary Liab5" value="" itemID="" parentID="" />
+        <dataElement name="Veh Factor Primary PhysDamage1" value="1.10" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Veh Factor Primary PhysDamage2" value="0" itemID="rADB21416D4CC4B169B5790E8E62B94C0" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Veh Factor Primary PhysDamage3" value="" itemID="" parentID="" />
+        <dataElement name="Veh Factor Primary PhysDamage4" value="" itemID="" parentID="" />
+        <dataElement name="Veh Factor Primary PhysDamage5" value="" itemID="" parentID="" />
+        <dataElement name="Veh Factor Secondary1" value="0.00" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Veh Factor Secondary2" value="0.00" itemID="rADB21416D4CC4B169B5790E8E62B94C0" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Veh Factor Secondary3" value="" itemID="" parentID="" />
+        <dataElement name="Veh Factor Secondary4" value="" itemID="" parentID="" />
+        <dataElement name="Veh Factor Secondary5" value="" itemID="" parentID="" />
+        <dataElement name="VehicleClassificationCode1" value="03199" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="VehicleClassificationCode2" value="01199" itemID="rADB21416D4CC4B169B5790E8E62B94C0" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="VehicleClassificationCode3" value="" itemID="" parentID="" />
+        <dataElement name="VehicleClassificationCode4" value="" itemID="" parentID="" />
+        <dataElement name="VehicleClassificationCode5" value="" itemID="" parentID="" />
+        <dataElement name="APIPPrem1" value="" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="APIPPrem2" value="" itemID="rADB21416D4CC4B169B5790E8E62B94C0" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="APIPPrem3" value="" itemID="" parentID="" />
+        <dataElement name="APIPPrem4" value="" itemID="" parentID="" />
+        <dataElement name="APIPPrem5" value="" itemID="" parentID="" />
+        <dataElement name="Coll-Ded1" value="500" itemID="c5E1F73DFA17842E092E56CDC5F70D1FB" parentID="r06F7875C233343B3A563411B2461B0C6" />
+        <dataElement name="Coll-Ded2" value="" itemID="" parentID="" />
+        <dataElement name="Coll-Ded3" value="" itemID="" parentID="" />
+        <dataElement name="Coll-Ded4" value="" itemID="" parentID="" />
+        <dataElement name="Coll-Ded5" value="" itemID="" parentID="" />
+        <dataElement name="Coll-Prem1" value="89" itemID="c5E1F73DFA17842E092E56CDC5F70D1FB" parentID="r06F7875C233343B3A563411B2461B0C6" />
+        <dataElement name="Coll-Prem2" value="" itemID="" parentID="" />
+        <dataElement name="Coll-Prem3" value="" itemID="" parentID="" />
+        <dataElement name="Coll-Prem4" value="" itemID="" parentID="" />
+        <dataElement name="Coll-Prem5" value="" itemID="" parentID="" />
+        <dataElement name="Liab-Limit1" value="1,000,000" itemID="cDFFDF418F59641C886B0D885E2C11071" parentID="r06F7875C233343B3A563411B2461B0C6" />
+        <dataElement name="Liab-Limit2" value="1,000,000" itemID="c9AA33B183DC84998AD0DF2D21379CBB9" parentID="rADB21416D4CC4B169B5790E8E62B94C0" />
+        <dataElement name="Liab-Limit3" value="" itemID="" parentID="" />
+        <dataElement name="Liab-Limit4" value="" itemID="" parentID="" />
+        <dataElement name="Liab-Limit5" value="" itemID="" parentID="" />
+        <dataElement name="Liab-Prem Veh1" value="421" itemID="cDFFDF418F59641C886B0D885E2C11071" parentID="r06F7875C233343B3A563411B2461B0C6" />
+        <dataElement name="Liab-Prem Veh2" value="324" itemID="c9AA33B183DC84998AD0DF2D21379CBB9" parentID="rADB21416D4CC4B169B5790E8E62B94C0" />
+        <dataElement name="Liab-Prem Veh3" value="" itemID="" parentID="" />
+        <dataElement name="Liab-Prem Veh4" value="" itemID="" parentID="" />
+        <dataElement name="Liab-Prem Veh5" value="" itemID="" parentID="" />
+        <dataElement name="TowLabor per Occur1" value="" itemID="" parentID="" />
+        <dataElement name="TowLabor per Occur2" value="" itemID="" parentID="" />
+        <dataElement name="TowLabor per Occur3" value="" itemID="" parentID="" />
+        <dataElement name="TowLabor per Occur4" value="" itemID="" parentID="" />
+        <dataElement name="TowLabor per Occur5" value="" itemID="" parentID="" />
+        <dataElement name="TowLabor Prem1" value="" itemID="" parentID="" />
+        <dataElement name="TowLabor Prem2" value="" itemID="" parentID="" />
+        <dataElement name="TowLabor Prem3" value="" itemID="" parentID="" />
+        <dataElement name="TowLabor Prem4" value="" itemID="" parentID="" />
+        <dataElement name="TowLabor Prem5" value="" itemID="" parentID="" />
+        <dataElement name="Veh Age Group1" value="9" itemID="rC50C0CADE64347DBA064B434C4125CBB" parentID="r06F7875C233343B3A563411B2461B0C6" />
+        <dataElement name="Veh Age Group2" value="" itemID="rF234A1D6549C426F99AE9197C43FD7DD" parentID="rADB21416D4CC4B169B5790E8E62B94C0" />
+        <dataElement name="Veh Age Group3" value="" itemID="" parentID="" />
+        <dataElement name="Veh Age Group4" value="" itemID="" parentID="" />
+        <dataElement name="Veh Age Group5" value="" itemID="" parentID="" />
+        <dataElement name="Veh Cost New Orig1" value="28,000" itemID="rC50C0CADE64347DBA064B434C4125CBB" parentID="r06F7875C233343B3A563411B2461B0C6" />
+        <dataElement name="Veh Cost New Orig2" value="" itemID="rF234A1D6549C426F99AE9197C43FD7DD" parentID="rADB21416D4CC4B169B5790E8E62B94C0" />
+        <dataElement name="Veh Cost New Orig3" value="" itemID="" parentID="" />
+        <dataElement name="Veh Cost New Orig4" value="" itemID="" parentID="" />
+        <dataElement name="Veh Cost New Orig5" value="" itemID="" parentID="" />
+        <dataElement name="Veh Description1" value="2006  CHEVY  COLORADO  1GCCS148968229316" itemID="rC50C0CADE64347DBA064B434C4125CBB" parentID="r06F7875C233343B3A563411B2461B0C6" />
+        <dataElement name="Veh Description2" value="2000  CHEVY  SILVERADO C1500  1GCEC14W4YZ217978" itemID="rF234A1D6549C426F99AE9197C43FD7DD" parentID="rADB21416D4CC4B169B5790E8E62B94C0" />
+        <dataElement name="Veh Description3" value="" itemID="" parentID="" />
+        <dataElement name="Veh Description4" value="" itemID="" parentID="" />
+        <dataElement name="Veh Description5" value="" itemID="" parentID="" />
+        <dataElement name="Veh Purchase Cost1" value="" itemID="" parentID="" />
+        <dataElement name="Veh Purchase Cost2" value="" itemID="" parentID="" />
+        <dataElement name="Veh Purchase Cost3" value="" itemID="" parentID="" />
+        <dataElement name="Veh Purchase Cost4" value="" itemID="" parentID="" />
+        <dataElement name="Veh Purchase Cost5" value="" itemID="" parentID="" />
+        <dataElement name="Veh Radius of Operation1" value="50" itemID="rC50C0CADE64347DBA064B434C4125CBB" parentID="r06F7875C233343B3A563411B2461B0C6" />
+        <dataElement name="Veh Radius of Operation2" value="50" itemID="rF234A1D6549C426F99AE9197C43FD7DD" parentID="rADB21416D4CC4B169B5790E8E62B94C0" />
+        <dataElement name="Veh Radius of Operation3" value="" itemID="" parentID="" />
+        <dataElement name="Veh Radius of Operation4" value="" itemID="" parentID="" />
+        <dataElement name="Veh Radius of Operation5" value="" itemID="" parentID="" />
+        <dataElement name="VehicleLocationTown1" value="BLACKSHEAR, GA" itemID="rC50C0CADE64347DBA064B434C4125CBB" parentID="r06F7875C233343B3A563411B2461B0C6" />
+        <dataElement name="VehicleLocationTown2" value="BLACKSHEAR, GA" itemID="rF234A1D6549C426F99AE9197C43FD7DD" parentID="rADB21416D4CC4B169B5790E8E62B94C0" />
+        <dataElement name="VehicleLocationTown3" value="" itemID="" parentID="" />
+        <dataElement name="VehicleLocationTown4" value="" itemID="" parentID="" />
+        <dataElement name="VehicleLocationTown5" value="" itemID="" parentID="" />
+        <dataElement name="Veh PIP1" value="" itemID="rC50C0CADE64347DBA064B434C4125CBB" parentID="r06F7875C233343B3A563411B2461B0C6" />
+        <dataElement name="Veh PIP2" value="" itemID="rF234A1D6549C426F99AE9197C43FD7DD" parentID="rADB21416D4CC4B169B5790E8E62B94C0" />
+        <dataElement name="Veh PIP3" value="" itemID="" parentID="" />
+        <dataElement name="Veh PIP4" value="" itemID="" parentID="" />
+        <dataElement name="Veh PIP5" value="" itemID="" parentID="" />
+        <dataElement name="Med Pay Limit1" value="5,000" itemID="c3342D07E1D404B7CBB28AD91CFE43106" parentID="r06F7875C233343B3A563411B2461B0C6" />
+        <dataElement name="Med Pay Limit2" value="5,000" itemID="c819C5950517D4308A30260DAB337ADC7" parentID="rADB21416D4CC4B169B5790E8E62B94C0" />
+        <dataElement name="Med Pay Limit3" value="" itemID="" parentID="" />
+        <dataElement name="Med Pay Limit4" value="" itemID="" parentID="" />
+        <dataElement name="Med Pay Limit5" value="" itemID="" parentID="" />
+        <dataElement name="Med Pay Prem1" value="22" itemID="c3342D07E1D404B7CBB28AD91CFE43106" parentID="r06F7875C233343B3A563411B2461B0C6" />
+        <dataElement name="Med Pay Prem2" value="22" itemID="c819C5950517D4308A30260DAB337ADC7" parentID="rADB21416D4CC4B169B5790E8E62B94C0" />
+        <dataElement name="Med Pay Prem3" value="" itemID="" parentID="" />
+        <dataElement name="Med Pay Prem4" value="" itemID="" parentID="" />
+        <dataElement name="Med Pay Prem5" value="" itemID="" parentID="" />
+        <dataElement name="Medical Expense Person Limit1 VA" value="" itemID="" parentID="" />
+        <dataElement name="Medical Expense Person Limit2 VA" value="" itemID="" parentID="" />
+        <dataElement name="Medical Expense Person Limit3 VA" value="" itemID="" parentID="" />
+        <dataElement name="Medical Expense Person Limit4 VA" value="" itemID="" parentID="" />
+        <dataElement name="Medical Expense Person Limit5 VA" value="" itemID="" parentID="" />
+        <dataElement name="CovMedicalExpensePremium1" value="" itemID="" parentID="" />
+        <dataElement name="CovMedicalExpensePremium2" value="" itemID="" parentID="" />
+        <dataElement name="CovMedicalExpensePremium3" value="" itemID="" parentID="" />
+        <dataElement name="CovMedicalExpensePremium4" value="" itemID="" parentID="" />
+        <dataElement name="CovMedicalExpensePremium5" value="" itemID="" parentID="" />
+        <dataElement name="Comp-Ded1" value="500" itemID="cC2AF467E4FFC4825B3943BEA133EABF5" parentID="r06F7875C233343B3A563411B2461B0C6" />
+        <dataElement name="Comp-Ded2" value="" itemID="" parentID="" />
+        <dataElement name="Comp-Ded3" value="" itemID="" parentID="" />
+        <dataElement name="Comp-Ded4" value="" itemID="" parentID="" />
+        <dataElement name="Comp-Ded5" value="" itemID="" parentID="" />
+        <dataElement name="Comp-Veh Prem1" value="68" itemID="cC2AF467E4FFC4825B3943BEA133EABF5" parentID="r06F7875C233343B3A563411B2461B0C6" />
+        <dataElement name="Comp-Veh Prem2" value="" itemID="cB5A9AE5C9480406F98A13184E060F17F" parentID="rADB21416D4CC4B169B5790E8E62B94C0" />
+        <dataElement name="Comp-Veh Prem3" value="" itemID="" parentID="" />
+        <dataElement name="Comp-Veh Prem4" value="" itemID="" parentID="" />
+        <dataElement name="Comp-Veh Prem5" value="" itemID="" parentID="" />
+        <dataElement name="Spec CauseLoss Prem1" value="" itemID="" parentID="" />
+        <dataElement name="Spec CauseLoss Prem2" value="" itemID="" parentID="" />
+        <dataElement name="Spec CauseLoss Prem3" value="" itemID="" parentID="" />
+        <dataElement name="Spec CauseLoss Prem4" value="" itemID="" parentID="" />
+        <dataElement name="Spec CauseLoss Prem5" value="" itemID="" parentID="" />
+        <dataElement name="PIP Ded1" value="" itemID="" parentID="" />
+        <dataElement name="PIP Ded2" value="" itemID="" parentID="" />
+        <dataElement name="PIP Ded3" value="" itemID="" parentID="" />
+        <dataElement name="PIP Ded4" value="" itemID="" parentID="" />
+        <dataElement name="PIP Ded5" value="" itemID="" parentID="" />
+        <dataElement name="PIP Prem1" value="" itemID="" parentID="" />
+        <dataElement name="PIP Prem2" value="" itemID="" parentID="" />
+        <dataElement name="PIP Prem3" value="" itemID="" parentID="" />
+        <dataElement name="PIP Prem4" value="" itemID="" parentID="" />
+        <dataElement name="PIP Prem5" value="" itemID="" parentID="" />
+        <dataElement name="Veh Number1" value="1" itemID="r87EC6FDE1BB341958ED13FA1BCF93991" parentID="r06F7875C233343B3A563411B2461B0C6" />
+        <dataElement name="Veh Number2" value="2" itemID="rAD0F1BC3A059448FA8C8EE60FF628BEE" parentID="rADB21416D4CC4B169B5790E8E62B94C0" />
+        <dataElement name="Veh Number3" value="" itemID="" parentID="" />
+        <dataElement name="Veh Number4" value="" itemID="" parentID="" />
+        <dataElement name="Veh Number5" value="" itemID="" parentID="" />
+        <dataElement name="PPI - Prop Protection MI Ded1" value="" itemID="" parentID="" />
+        <dataElement name="PPI - Prop Protection MI Ded2" value="" itemID="" parentID="" />
+        <dataElement name="PPI - Prop Protection MI Ded3" value="" itemID="" parentID="" />
+        <dataElement name="PPI - Prop Protection MI Ded4" value="" itemID="" parentID="" />
+        <dataElement name="PPI - Prop Protection MI Ded5" value="" itemID="" parentID="" />
+        <dataElement name="PPI - Prop Protection MI Prem1" value="" itemID="" parentID="" />
+        <dataElement name="PPI - Prop Protection MI Prem2" value="" itemID="" parentID="" />
+        <dataElement name="PPI - Prop Protection MI Prem3" value="" itemID="" parentID="" />
+        <dataElement name="PPI - Prop Protection MI Prem4" value="" itemID="" parentID="" />
+        <dataElement name="PPI - Prop Protection MI Prem5" value="" itemID="" parentID="" />
+        <dataElement name="Veh Purchase N-U Selection1" value="" itemID="" parentID="" />
+        <dataElement name="Veh Purchase N-U Selection2" value="" itemID="" parentID="" />
+        <dataElement name="Veh Purchase N-U Selection3" value="" itemID="" parentID="" />
+        <dataElement name="Veh Purchase N-U Selection4" value="" itemID="" parentID="" />
+        <dataElement name="Veh Purchase N-U Selection5" value="" itemID="" parentID="" />
+      </ExportSection>
+      <ExportSection name="DCTSCHEDULEFORCADS03ITEMFOUR" value="Carrier_CommercialAuto_Forms_Multistate_8_8_0_0" caption="DCT SCHEDULE FOR CADS03 ITEM FOUR" paperBinNum="0" category="" printDefault="Mandatory" topicRef="" pageRef="" printed="1">
+        <group name="Policy" startIteration="1" endIteration="1" itemID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <group name="LineState" startIteration="1" endIteration="1" itemID="l41399B75A7C34933951576D6AA45C634" />
+        <group name="CovHiredAndBorrowedLiability" startIteration="1" endIteration="1" itemID="cEC148069171F4B8D86ED5A8AF1D5A9E7" />
+        <group name="CovHiredAndBorrowedCollision" startIteration="1" endIteration="1" itemID="c66DC91656CAA4A74A031D855E263CCEC" />
+        <group name="CovHiredAndBorrowedOTC" startIteration="1" endIteration="1" itemID="cE4C317D00DC649789DB4785CABBE19A6" />
+        <group name="RiskHiredAndBorrowedLiability" startIteration="1" endIteration="1" itemID="r8523D03CB5424626B2FF1C70DD5C72C7" />
+        <group name="RiskHiredAndBorrowedPhysicalDamage" startIteration="1" endIteration="1" itemID="r8BEFE70C67E54A27A338AAF836F15658" />
+        <subForm name="DCT SCHEDULE FOR CADS03 ITEM FOUR.pdf" path="Auto|Forms|Multistate|" />
+        <dataElement name="Policy Number" value="ACV102000149" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Cost of Hire Annual Estimate Coll" value="" itemID="" parentID="" />
+        <dataElement name="Cost of Hire Annual Estimate CauseLoss" value="" itemID="" parentID="" />
+        <dataElement name="Cost of Hire Annual Estimate Comp" value="" itemID="" parentID="" />
+        <dataElement name="Cost of Hire Prem CauseLoss" value="" itemID="l41399B75A7C34933951576D6AA45C634" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Cost of Hire Prem Comp" value="25" itemID="l41399B75A7C34933951576D6AA45C634" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Cost of Hire Rate per 100 CauseLoss" value="" itemID="" parentID="" />
+        <dataElement name="Cost of Hire Rate per 100 Comp" value="" itemID="" parentID="" />
+        <dataElement name="Cost of Hire Collision Ded" value="" itemID="" parentID="" />
+        <dataElement name="Cost of Hire OTC Ded" value="" itemID="" parentID="" />
+        <dataElement name="Cost of Hire Spec Ded" value="" itemID="" parentID="" />
+        <dataElement name="Cost of Hire Excess" value="" itemID="" parentID="" />
+        <dataElement name="Cost of Hire Rate per 100 Coll" value="" itemID="" parentID="" />
+        <dataElement name="Cost of Hire Rate per 100 Liab" value=".60" itemID="l41399B75A7C34933951576D6AA45C634" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Cost of Hire State Liab Estimate" value="$5,000" itemID="l41399B75A7C34933951576D6AA45C634" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Cost of Hire State Liab Factor" value="6.00" itemID="l41399B75A7C34933951576D6AA45C634" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Cost of Hire State" value="GA" itemID="l41399B75A7C34933951576D6AA45C634" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="IfAny" value="" itemID="" parentID="" />
+        <dataElement name="IfAnyComp" value="If Any" itemID="l41399B75A7C34933951576D6AA45C634" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="IfAnySpecCauses" value="" itemID="" parentID="" />
+        <dataElement name="IfAnyColl" value="If Any" itemID="l41399B75A7C34933951576D6AA45C634" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Primary" value="Primary" itemID="l41399B75A7C34933951576D6AA45C634" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Excess" value="" itemID="" parentID="" />
+        <dataElement name="Line State" value="Georgia" itemID="l41399B75A7C34933951576D6AA45C634" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Cost of Hire State Liab Prem" value="231" itemID="cEC148069171F4B8D86ED5A8AF1D5A9E7" parentID="l41399B75A7C34933951576D6AA45C634" />
+        <dataElement name="Cost of Hire Prem Coll" value="25" itemID="c66DC91656CAA4A74A031D855E263CCEC" parentID="l41399B75A7C34933951576D6AA45C634" />
+      </ExportSection>
+      <ExportSection name="CADS031013" value="Carrier_CommercialAuto_Forms_Multistate_8_8_0_0" caption="BUSINESS AUTO DECLARATIONS" duplex="1" paperBinNum="0" category="" printDefault="Mandatory" topicRef="" pageRef="" printed="1">
+        <group name="Policy" startIteration="1" endIteration="1" itemID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <group name="Account" startIteration="1" endIteration="1" itemID="aB5D0A53693EF4BCABF2BDD7B221752FD" />
+        <group name="Line" startIteration="1" endIteration="1" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <group name="Agency" startIteration="1" endIteration="1" itemID="aC3BC72E45A1E482380889E4D6672577F" />
+        <group name="Carrier" startIteration="1" endIteration="1" itemID="c51F7C8DC0AEA44D3B9E1A687ABD1F081" />
+        <group name="CovNonOwnedAutoLiability" startIteration="1" endIteration="1" itemID="cA4DE71F4DECD4362AA6883FC4D182B49" />
+        <group name="CovPolicyMinimum" startIteration="1" endIteration="1" itemID="cD75840B2A51F44D39445CD5A50159A68" />
+        <group name="ExtDefaults" startIteration="1" endIteration="1" itemID="rB90A559DB1224C4A9EE1F4EBA8497C25" />
+        <group name="LineState" startIteration="1" endIteration="1" itemID="l41399B75A7C34933951576D6AA45C634" />
+        <group name="RiskNonOwnedAuto" startIteration="1" endIteration="1" itemID="rED2398AB26E84D289F1BC29838BECD09" />
+        <group name="Risk" startIteration="1" endIteration="1" itemID="r06F7875C233343B3A563411B2461B0C6" />
+        <subForm name="CADS031013.pdf" path="Auto|Forms|Multistate|" />
+        <dataElement name="Policy Number" value="ACV102000149" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="AuditAnnual" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="AuditMonthly" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="AuditQuarterly" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="AuditSemiAnnual" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Balance To Minimum" value="" itemID="" parentID="" />
+        <dataElement name="Coll-Ded" value="**" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Comp-Ded" value="**" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Cost of Hire Prem Total PhysDam" value="50" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Date-Policy Effective" value="06-01-2014" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Date-Policy Expiration" value="06-01-2015" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="End Total Prem2" value="***" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="FormOfBusinessInd-Corporation" value="X" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="FormOfBusinessInd-Individual" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="FormOfBusinessInd-LimitLiabCo" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="FormOfBusinessInd-Other" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="FormOfBusinessInd-Partnership-" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="FormsScheduleListing" value="See Schedule of Forms" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="GrossReceiptsSeeSchedule" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Liab-Hired Rented Total Prem" value="231" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="OtherText" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="PIP Ded" value="" itemID="" parentID="" />
+        <dataElement name="See Endorsements" value="***See Attached Endorsements" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="See Schedule for Covered Autos" value="See Separate Schedule" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="See Schedule" value="**See Separate Schedule" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="See Separate Schedule - Cost Of Hire Mobile Equip" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="See Separate Schedule - Cost Of Hire Mobile Rental" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="See Separate Schedule - Hired Phy Damage Without Driver" value="See Separate Schedule" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="See Separate Schedule1" value="" itemID="" parentID="" />
+        <dataElement name="SeeTaxSchedule" value="" itemID="" parentID="" />
+        <dataElement name="Spec CauseLoss Ded" value="**" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="State Tax" value="" itemID="" parentID="" />
+        <dataElement name="TowLabor per Occur" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="UIM Occur Lmt" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="UM Occur Lmt" value="1,000,000" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Named Ins Address 1" value="3497  84 HWY, BLACKSHEAR, GA  31516" itemID="aB5D0A53693EF4BCABF2BDD7B221752FD" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Named Ins" value="BLACKSHEAR AUTO PARTS INC" itemID="aB5D0A53693EF4BCABF2BDD7B221752FD" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="APIP Total Prem" value="" itemID="" parentID="" />
+        <dataElement name="Coll-Policy Prem" value="126" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Comp-Policy Prem" value="100" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Cost of Hire Farm Phy Dam Total Prem" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Cost of Hire Farm Rental Total Prem" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Cost of Hire Farm Total Premium" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Cost of Hire Mobile Phy Dam Total Prem" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Cost of Hire Mobile Rental Total Prem" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Cost of Hire Mobile Total Premium" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Cost of Hire Operations Estimate Excess" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Cost of Hire Operations Estimate Total Excess" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Cost of Hire Operations Estimate Total Premium" value=" " itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Cost of Hire Operations Estimate Total" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Cost of Hire Operations Estimate" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Inception Prem" value="1,402" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Liab NonOwn Garage Partners Pprem" value="" itemID="" parentID="" />
+        <dataElement name="Liab NonOwn Garage Service Eprem" value="" itemID="" parentID="" />
+        <dataElement name="Liab-NonOwn Eprem" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Liab-NonOwn Pprem" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Liab-NonOwn Service Agency Eprem" value="" itemID="" parentID="" />
+        <dataElement name="Liab-NonOwn Service Agency Volunteer Vprem" value="" itemID="" parentID="" />
+        <dataElement name="Liab-Total Prem" value="976" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Med Pay Total Prem" value="44" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="MedExp-TotalPrem" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="MP" value="" itemID="" parentID="" />
+        <dataElement name="Other Prem for Veh" value="" itemID="" parentID="" />
+        <dataElement name="PIP Total Prem" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Policy Estimated Prem" value="1,402" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="PPI - Prop Protection MI Total Prem" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Spec CauseLoss Total Prem" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="TowLabor Total Prem" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="UIM Total Prem" value="" itemID="" parentID="" />
+        <dataElement name="UM Total Prem" value="156" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Veh Sym List for APIP" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Veh Sym List for Coll" value="7 " itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Veh Sym List for Comp" value="7 " itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Veh Sym List for Liability" value="7 8 9 " itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Veh Sym List for MedExp-WkLoss" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" readOnly="True" />
+        <dataElement name="Veh Sym List for MedPay" value="7 " itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Veh Sym List for PIP" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Veh Sym List for PPI" value="" itemID="" parentID="" />
+        <dataElement name="Veh Sym List for Specified COL" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Veh Sym List for Tow-Labor" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Veh Sym List for UIM" value="" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Veh Sym List for UM" value="      7" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" readOnly="1" />
+        <dataElement name="AgencyName" value="BENNETT, BENNETT &amp; JOHNSON" itemID="aC3BC72E45A1E482380889E4D6672577F" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Carrier Name" value="SOUTHERN TRUST INSURANCE COMPANY" itemID="c51F7C8DC0AEA44D3B9E1A687ABD1F081" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Liab-NonOwn Auto Prem" value="" itemID="cA4DE71F4DECD4362AA6883FC4D182B49" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Balance Premium" value="" itemID="" parentID="" />
+        <dataElement name="LiabilitySplitLimit" value="" itemID="" parentID="" />
+        <dataElement name="Liab-Limit" value="1,000,000" itemID="rB90A559DB1224C4A9EE1F4EBA8497C25" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="PPI - Prop Protection MI Ded" value="" itemID="rB90A559DB1224C4A9EE1F4EBA8497C25" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="MedPay-Lmt" value="5,000" itemID="l41399B75A7C34933951576D6AA45C634" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Liab-NonOwn Garage Service Employee Num" value="" itemID="" parentID="" />
+        <dataElement name="Liab-NonOwn Garage Service Partners Num" value="" itemID="" parentID="" />
+        <dataElement name="Liab-NonOwn NotServiceAgency EmployeeNum" value="" itemID="rED2398AB26E84D289F1BC29838BECD09" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Liab-NonOwn NotServiceAgency PartnerNum" value="" itemID="rED2398AB26E84D289F1BC29838BECD09" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Liab-NonOwn Service Agency EmployeeNum" value="" itemID="" parentID="" />
+        <dataElement name="Liab-NonOwn Service Agency Volunteer Num" value="" itemID="" parentID="" />
+        <dataElement name="Ins Agent Name" value="" itemID="" parentID="" />
+        <dataElement name="Ins Agent Title" value="" itemID="" parentID="" />
+        <dataElement name="Liab-NonOwn Service Agency PartnerNum" value="" itemID="" parentID="" />
+        <dataElement name="Liab-NonOwn Service Agency Pprem" value="" itemID="" parentID="" />
+        <dataElement name="Policy Number - Prior" value="" itemID="" parentID="" />
+      </ExportSection>
+      <ExportSection name="CA99031013" value="Carrier_CommercialAuto_Forms_Multistate_8_8_0_0" caption="AUTO MEDICAL PAYMENTS COVERAGE" paperBinNum="0" category="" printDefault="Mandatory" topicRef="" pageRef="" printed="1">
+        <group name="data" startIteration="1" endIteration="1" itemID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <subForm name="CA99031013.pdf" path="Auto|Forms|MultiState|" />
+      </ExportSection>
+      <ExportSection name="CA99231013" value="Carrier_CommercialAuto_Forms_Multistate_8_8_0_0" caption="RENTAL REIMBURSEMENT COVERAGE" duplex="1" paperBinNum="0" category="" printDefault="Mandatory" topicRef="" pageRef="" printed="1">
+        <group name="Policy" startIteration="1" endIteration="1" itemID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <group name="Account" startIteration="1" endIteration="1" itemID="aB5D0A53693EF4BCABF2BDD7B221752FD" />
+        <group name="Risk" startIteration="1" endIteration="1" itemID="r06F7875C233343B3A563411B2461B0C6" />
+        <group name="Line" startIteration="1" endIteration="1" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <subForm name="CA99231013.pdf" path="Auto|Forms|Multistate|" />
+        <dataElement name="Policy Number" value="ACV102000149" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Date-End Effective" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" ignoreInCompare="1" />
+        <dataElement name="Named Ins" value="BLACKSHEAR AUTO PARTS INC" itemID="aB5D0A53693EF4BCABF2BDD7B221752FD" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Coll-Rental-PremColl" value="12" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Comp-Rental-PremComp" value="7" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="RentalReimb-NumberOfDaysComp" value="30" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="RentalReimb-NumberOfDaysColl" value="30" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="RentalReimb-NumberOfDaysSpec" value="" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="RentalReimb-RatePerDayComp" value="40" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="RentalReimb-RatePerDayColl" value="40" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="RentalReimb-RatePerDaySpec" value="" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="RentalReimb-RatePerPeriodComp" value="1,200" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="RentalReimb-RatePerPeriodColl" value="1,200" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="RentalReimb-RatePerPeriodSpec" value="" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="SpecCausesLoss-Rental-PremSpec" value="" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Veh DescriptionComp" value="2006 CHEVY COLORADO 1GCCS148968229316" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Veh DescriptionColl" value="2006 CHEVY COLORADO 1GCCS148968229316" itemID="r06F7875C233343B3A563411B2461B0C6" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="Veh DescriptionSpec" value="" itemID="" parentID="" />
+        <dataElement name="Rental Veh Cov Prem" value="19" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+      </ExportSection>
+      <ExportSection name="CA00011013" value="Carrier_CommercialAuto_Forms_Multistate_8_8_0_0" caption="BUSINESS AUTO COVERAGE FORM" duplex="1" paperBinNum="0" category="" printDefault="Mandatory" topicRef="" pageRef="" printed="1">
+        <group name="data" startIteration="1" endIteration="1" itemID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <subForm name="CA00011013.pdf" path="Auto|Forms|Multistate|" />
+      </ExportSection>
+      <ExportSection name="CA01091013" value="Carrier_CommercialAuto_Forms_GA_8_8_0_0" caption="GEORGIA CHANGES" paperBinNum="0" category="" printDefault="Mandatory" topicRef="" pageRef="" printed="1">
+        <group name="data" startIteration="1" endIteration="1" itemID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <subForm name="CA01091013.pdf" path="Auto|Forms|Georgia|" />
+      </ExportSection>
+      <ExportSection name="CA31371013" value="Carrier_CommercialAuto_Forms_GA_8_8_0_0" caption="GEORGIA UNINSURED MOTORISTS COVERAGE - ADDED ON TO AT-FAULT LIABILITY LIMITS" duplex="1" paperBinNum="0" category="" printDefault="Mandatory" topicRef="" pageRef="" printed="1">
+        <group name="Policy" startIteration="1" endIteration="1" itemID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <group name="Account" startIteration="1" endIteration="1" itemID="aB5D0A53693EF4BCABF2BDD7B221752FD" />
+        <group name="LineState" startIteration="1" endIteration="1" itemID="l41399B75A7C34933951576D6AA45C634" />
+        <subForm name="CA31371013.pdf" path="Auto|Forms|Georgia|" />
+        <dataElement name="PolicyNumber" value="ACV102000149" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="End-EffectiveDate" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" ignoreInCompare="1" />
+        <dataElement name="Named Ins" value="BLACKSHEAR AUTO PARTS INC" itemID="aB5D0A53693EF4BCABF2BDD7B221752FD" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="UM No Ded" value="X" itemID="l41399B75A7C34933951576D6AA45C634" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="UM 500 Ded" value="" itemID="l41399B75A7C34933951576D6AA45C634" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="UM 1000 Ded" value="" itemID="l41399B75A7C34933951576D6AA45C634" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="UM 2000 Ded" value="" itemID="l41399B75A7C34933951576D6AA45C634" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <dataElement name="UM Occur Lmt" value="1,000,000" itemID="l41399B75A7C34933951576D6AA45C634" parentID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+      </ExportSection>
+      <ExportSection name="ILDS000908" value="Carrier_Interline_Forms_Multistate_8_2_0_0" caption="COMMON POLICY DECLARATIONS " duplex="1" paperBinNum="0" category="" printDefault="Mandatory" topicRef="" pageRef="" printed="1">
+        <group name="Policy" startIteration="1" endIteration="1" itemID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <group name="Account" startIteration="1" endIteration="1" itemID="aB5D0A53693EF4BCABF2BDD7B221752FD" />
+        <group name="Line" startIteration="1" endIteration="2" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" />
+        <group name="Agency" startIteration="1" endIteration="1" itemID="aC3BC72E45A1E482380889E4D6672577F" />
+        <group name="Carrier" startIteration="1" endIteration="1" itemID="c51F7C8DC0AEA44D3B9E1A687ABD1F081" />
+        <subForm name="ILDS000908.pdf" path="Interline|Forms|Multistate|" />
+        <dataElement name="Policy Number" value="ACV102000149" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Cov Part-Total-all Parts Prem" value="1,402" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Date-Policy Effective" value="06-01-2014" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Date-Policy Expiration" value="06-01-2015" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="DCT_JOBNAMES" value="See Schedule of Forms and Endorsements" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Inception Prem" value="1,402" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Operations-Description" value="" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Named Ins Address 1" value="3497  84 HWY" itemID="aB5D0A53693EF4BCABF2BDD7B221752FD" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Named Ins City" value="BLACKSHEAR" itemID="aB5D0A53693EF4BCABF2BDD7B221752FD" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Named Ins State" value="GA" itemID="aB5D0A53693EF4BCABF2BDD7B221752FD" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Named Ins ZIP" value="31516" itemID="aB5D0A53693EF4BCABF2BDD7B221752FD" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Named Ins" value="BLACKSHEAR AUTO PARTS INC" itemID="aB5D0A53693EF4BCABF2BDD7B221752FD" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Cov Part-Commercial Auto Prem" value="1,402" itemID="l7FCA95B848FC4CAE94B4ADB0A1609796" parentID="pB32FD2EE18254F0C895E5761F6EED564" />
+        <dataElement name="Cov Part-General Liab Prem" value="" itemID="" parentID="" />
+        <dataElement name="Cov Part-Prop Prem" value="" itemID="" parentID="" />
+        <dataElement name="Cov Part-Inland Marine Prem" value="" itemID="" parentID="" />
+        <dataElement name="Cov Part-Crime-Fidelity Prem" value="" itemID="" parentID="" />
+        <dataElement name="Cov Part-Umbrella Prem" value="" itemID="" parentID="" />
+        <dataElement name="Cov Part-Liquor Liab Prem" value="" itemID="" parentID="" />
+        <dataElement name="Cov Part-Pollution Liab Prem" value="" itemID="" parentID="" />
+        <dataElement name="Cov Part-Other Prem" value="" itemID="" parentID="" />
+        <dataElement name="Cov Part-Other Type" value="" itemID="" parentID="" />
+        <dataElement name="AgencyAddress" value="3586 HWY #84 E" itemID="aC3BC72E45A1E482380889E4D6672577F" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="AgencyCity" value="BLACKSHEAR" itemID="aC3BC72E45A1E482380889E4D6672577F" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="AgencyName" value="BENNETT, BENNETT &amp; JOHNSON" itemID="aC3BC72E45A1E482380889E4D6672577F" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="AgencyState" value="GA" itemID="aC3BC72E45A1E482380889E4D6672577F" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="AgencyZip" value="31516" itemID="aC3BC72E45A1E482380889E4D6672577F" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="AgencyNo" value="Producer Code: 0000226" itemID="aC3BC72E45A1E482380889E4D6672577F" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="CarrierAddress" value="5444 Riverside Drive" itemID="c51F7C8DC0AEA44D3B9E1A687ABD1F081" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="CarrierCity" value="Macon, GA-31210" itemID="c51F7C8DC0AEA44D3B9E1A687ABD1F081" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="CarrierName" value="SOUTHERN TRUST INSURANCE COMPANY" itemID="c51F7C8DC0AEA44D3B9E1A687ABD1F081" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="CarrierState" value="GA" itemID="c51F7C8DC0AEA44D3B9E1A687ABD1F081" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="CarrierPhn" value="800-476-5566" itemID="c51F7C8DC0AEA44D3B9E1A687ABD1F081" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <dataElement name="Anniversary Prem" value="" itemID="" parentID="" />
+        <dataElement name="Cov Part-Capital Assets Prem" value="" itemID="" parentID="" />
+        <dataElement name="Cov Part-Employ Pract Prem" value="" itemID="" parentID="" />
+        <dataElement name="Cov Part-EquipmentBreakdown" value="" itemID="" parentID="" />
+        <dataElement name="Cov Part-Farm Cov Prem" value="" itemID="" parentID="" />
+        <dataElement name="Cov Part-Prof Liab Prem" value="" itemID="" parentID="" />
+      </ExportSection>
+      <ExportSection name="DCTFormsSchedule" value="Carrier_Interline_Forms_Multistate_8_2_0_0" caption="FORMS SCHEDULE" duplex="1" paperBinNum="0" category="" printDefault="Mandatory" topicRef="" pageRef="" printed="1">
+        <group name="data" startIteration="1" endIteration="1" itemID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <subForm name="Forms schedule header.doc" path="Interline|Forms|Multistate|FormsSchedule|">
+          <group name="Policy" startIteration="1" endIteration="1" itemID="pB32FD2EE18254F0C895E5761F6EED564" />
+          <group name="Account" startIteration="1" endIteration="1" itemID="aB5D0A53693EF4BCABF2BDD7B221752FD" />
+          <dataElement name="Policy Number" value="ACV102000149" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+          <dataElement name="Effective Date" value="06-01-2014" itemID="pB32FD2EE18254F0C895E5761F6EED564" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+          <dataElement name="EndorsementWording" value="" itemID="" parentID="" />
+          <dataElement name="Named Insured" value="BLACKSHEAR AUTO PARTS INC" itemID="aB5D0A53693EF4BCABF2BDD7B221752FD" parentID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        </subForm>
+        <subForm name="Endorsement.doc" path="Interline|Forms|Multistate|FormsSchedule|" />
+        <subForm name="Header Monoline.doc" path="Interline|Forms|Multistate|FormsSchedule|" />
+        <subForm name="Iterative Monoline.doc" path="Interline|Forms|Multistate|FormsSchedule|">
+          <group name="printDoc" startIteration="1" endIteration="1" itemID="p0E955AA5EF314968A9821E26150A2136" />
+          <dataElement name="FormNumber" value="DCT" itemID="p0E955AA5EF314968A9821E26150A2136" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="EffDate" value="" itemID="p0E955AA5EF314968A9821E26150A2136" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="Title" value="DCT SCHEDULE FOR CADS03" itemID="p0E955AA5EF314968A9821E26150A2136" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+        </subForm>
+        <subForm name="Iterative Monoline.doc" path="Interline|Forms|Multistate|FormsSchedule|">
+          <group name="printDoc" startIteration="2" endIteration="2" itemID="p7D98AF3218EC460DA23C1598837440AF" />
+          <dataElement name="FormNumber" value="DCT" itemID="p7D98AF3218EC460DA23C1598837440AF" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="EffDate" value="" itemID="p7D98AF3218EC460DA23C1598837440AF" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="Title" value="DCT SCHEDULE FOR CADS03 ITEM FOUR" itemID="p7D98AF3218EC460DA23C1598837440AF" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+        </subForm>
+        <subForm name="Iterative Monoline.doc" path="Interline|Forms|Multistate|FormsSchedule|">
+          <group name="printDoc" startIteration="3" endIteration="3" itemID="p327F0801BE6D441C8BEF4D060C83243C" />
+          <dataElement name="FormNumber" value="CADS03" itemID="p327F0801BE6D441C8BEF4D060C83243C" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="EffDate" value="1013" itemID="p327F0801BE6D441C8BEF4D060C83243C" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="Title" value="BUSINESS AUTO DECLARATIONS" itemID="p327F0801BE6D441C8BEF4D060C83243C" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+        </subForm>
+        <subForm name="Iterative Monoline.doc" path="Interline|Forms|Multistate|FormsSchedule|">
+          <group name="printDoc" startIteration="4" endIteration="4" itemID="p59C2F2D9263A4849918FE3B9CF064AAC" />
+          <dataElement name="FormNumber" value="CA9903" itemID="p59C2F2D9263A4849918FE3B9CF064AAC" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="EffDate" value="1013" itemID="p59C2F2D9263A4849918FE3B9CF064AAC" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="Title" value="AUTO MEDICAL PAYMENTS COVERAGE" itemID="p59C2F2D9263A4849918FE3B9CF064AAC" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+        </subForm>
+        <subForm name="Iterative Monoline.doc" path="Interline|Forms|Multistate|FormsSchedule|">
+          <group name="printDoc" startIteration="5" endIteration="5" itemID="pB59D204FD7914BBEB2FAE5CCAB160684" />
+          <dataElement name="FormNumber" value="CA9923" itemID="pB59D204FD7914BBEB2FAE5CCAB160684" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="EffDate" value="1013" itemID="pB59D204FD7914BBEB2FAE5CCAB160684" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="Title" value="RENTAL REIMBURSEMENT COVERAGE" itemID="pB59D204FD7914BBEB2FAE5CCAB160684" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+        </subForm>
+        <subForm name="Iterative Monoline.doc" path="Interline|Forms|Multistate|FormsSchedule|">
+          <group name="printDoc" startIteration="6" endIteration="6" itemID="p867E4BB03D704E2792973292FCF64F76" />
+          <dataElement name="FormNumber" value="CA0001" itemID="p867E4BB03D704E2792973292FCF64F76" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="EffDate" value="1013" itemID="p867E4BB03D704E2792973292FCF64F76" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="Title" value="BUSINESS AUTO COVERAGE FORM" itemID="p867E4BB03D704E2792973292FCF64F76" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+        </subForm>
+        <subForm name="Iterative Monoline.doc" path="Interline|Forms|Multistate|FormsSchedule|">
+          <group name="printDoc" startIteration="7" endIteration="7" itemID="p6E5D1F40CD2E487F8BC473F0BBD4C4A6" />
+          <dataElement name="FormNumber" value="CA0109" itemID="p6E5D1F40CD2E487F8BC473F0BBD4C4A6" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="EffDate" value="1013" itemID="p6E5D1F40CD2E487F8BC473F0BBD4C4A6" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="Title" value="GEORGIA CHANGES" itemID="p6E5D1F40CD2E487F8BC473F0BBD4C4A6" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+        </subForm>
+        <subForm name="Iterative Monoline.doc" path="Interline|Forms|Multistate|FormsSchedule|">
+          <group name="printDoc" startIteration="8" endIteration="8" itemID="p8427D78B600644E1A57F71AC91BB813B" />
+          <dataElement name="FormNumber" value="CA3137" itemID="p8427D78B600644E1A57F71AC91BB813B" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="EffDate" value="1013" itemID="p8427D78B600644E1A57F71AC91BB813B" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="Title" value="GEORGIA UNINSURED MOTORISTS COVERAGE - ADDED ON TO AT-FAULT LIABILITY LIMITS" itemID="p8427D78B600644E1A57F71AC91BB813B" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+        </subForm>
+        <subForm name="Iterative Monoline.doc" path="Interline|Forms|Multistate|FormsSchedule|">
+          <group name="printDoc" startIteration="9" endIteration="9" itemID="p7BD7712CD18A40FA8CACE3A6137897C9" />
+          <dataElement name="FormNumber" value="ILDS00" itemID="p7BD7712CD18A40FA8CACE3A6137897C9" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="EffDate" value="0908" itemID="p7BD7712CD18A40FA8CACE3A6137897C9" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="Title" value="COMMON POLICY DECLARATIONS " itemID="p7BD7712CD18A40FA8CACE3A6137897C9" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+        </subForm>
+        <subForm name="Iterative Monoline.doc" path="Interline|Forms|Multistate|FormsSchedule|">
+          <group name="printDoc" startIteration="10" endIteration="10" itemID="p3E6F0E73B95F473AB38957B133083701" />
+          <dataElement name="FormNumber" value="DCT" itemID="p3E6F0E73B95F473AB38957B133083701" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="EffDate" value="" itemID="p3E6F0E73B95F473AB38957B133083701" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="Title" value="FORMS SCHEDULE" itemID="p3E6F0E73B95F473AB38957B133083701" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+        </subForm>
+        <subForm name="Iterative Monoline.doc" path="Interline|Forms|Multistate|FormsSchedule|">
+          <group name="printDoc" startIteration="11" endIteration="11" itemID="pC8E6EFB8D697427580924044599F2C36" />
+          <dataElement name="FormNumber" value="IL0003" itemID="pC8E6EFB8D697427580924044599F2C36" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="EffDate" value="0908" itemID="pC8E6EFB8D697427580924044599F2C36" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="Title" value="CALCULATION OF PREMIUM" itemID="pC8E6EFB8D697427580924044599F2C36" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+        </subForm>
+        <subForm name="Iterative Monoline.doc" path="Interline|Forms|Multistate|FormsSchedule|">
+          <group name="printDoc" startIteration="12" endIteration="12" itemID="p07865908323B4F25A36E33F103AF58EA" />
+          <dataElement name="FormNumber" value="IL0017" itemID="p07865908323B4F25A36E33F103AF58EA" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="EffDate" value="1198" itemID="p07865908323B4F25A36E33F103AF58EA" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="Title" value="COMMON POLICY CONDITIONS" itemID="p07865908323B4F25A36E33F103AF58EA" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+        </subForm>
+        <subForm name="Iterative Monoline.doc" path="Interline|Forms|Multistate|FormsSchedule|">
+          <group name="printDoc" startIteration="13" endIteration="13" itemID="p948AE6DF91A545C0BF6E4EDD911F544D" />
+          <dataElement name="FormNumber" value="IL0021" itemID="p948AE6DF91A545C0BF6E4EDD911F544D" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="EffDate" value="0908" itemID="p948AE6DF91A545C0BF6E4EDD911F544D" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="Title" value="NUCLEAR ENERGY LIABILITY EXCLUSION ENDORSEMENT (BROAD FORM)" itemID="p948AE6DF91A545C0BF6E4EDD911F544D" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+        </subForm>
+        <subForm name="Iterative Monoline.doc" path="Interline|Forms|Multistate|FormsSchedule|">
+          <group name="printDoc" startIteration="14" endIteration="14" itemID="p1B09B6C9572949F49C201585F3BAF784" />
+          <dataElement name="FormNumber" value="IL0262" itemID="p1B09B6C9572949F49C201585F3BAF784" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="EffDate" value="0908" itemID="p1B09B6C9572949F49C201585F3BAF784" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+          <dataElement name="Title" value="GEORGIA CHANGES - CANCELLATION AND NONRENEWAL " itemID="p1B09B6C9572949F49C201585F3BAF784" parentID="pD527A8569B9F4ADB8567766FD03641F7" />
+        </subForm>
+      </ExportSection>
+      <ExportSection name="IL00030908" value="Carrier_Interline_Forms_Multistate_8_2_0_0" caption="CALCULATION OF PREMIUM" paperBinNum="0" category="" printDefault="Mandatory" topicRef="" pageRef="" printed="1">
+        <group name="data" startIteration="1" endIteration="1" itemID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <subForm name="IL00030908.pdf" path="Interline|Forms|Multistate|" />
+      </ExportSection>
+      <ExportSection name="IL00171198" value="Carrier_Interline_Forms_Multistate_8_2_0_0" caption="COMMON POLICY CONDITIONS" paperBinNum="0" category="" printDefault="Mandatory" topicRef="" pageRef="" printed="1">
+        <group name="data" startIteration="1" endIteration="1" itemID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <subForm name="IL00171198.pdf" path="Interline|Forms|Multistate|" />
+      </ExportSection>
+      <ExportSection name="IL00210908" value="Carrier_Interline_Forms_Multistate_8_2_0_0" caption="NUCLEAR ENERGY LIABILITY EXCLUSION ENDORSEMENT (BROAD FORM)" duplex="1" paperBinNum="0" category="" printDefault="Mandatory" topicRef="" pageRef="" printed="1">
+        <group name="data" startIteration="1" endIteration="1" itemID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <subForm name="IL00210908.pdf" path="Interline|Forms|Multistate|" />
+      </ExportSection>
+      <ExportSection name="IL02620908" value="Carrier_Interline_Forms_GA_8_2_0_0" caption="GEORGIA CHANGES - CANCELLATION AND NONRENEWAL " duplex="1" paperBinNum="0" category="" printDefault="Mandatory" topicRef="" pageRef="" printed="1">
+        <group name="data" startIteration="1" endIteration="1" itemID="dAEE5F19161B3430F8585FA92AA6D4B84" />
+        <subForm name="IL02620908.pdf" path="Interline|Forms|Georgia|" />
+      </ExportSection>
+      <ControlBlock />
+    </ExportDocument>
+  </printJob>
+</FormsXML>
